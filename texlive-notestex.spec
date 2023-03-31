@@ -1,6 +1,6 @@
 Name:		texlive-notestex
 Version:	45396
-Release:	1
+Release:	2
 Summary:	An all-in-one LaTeX notes package for students
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/notestex
