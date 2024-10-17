@@ -3,7 +3,7 @@ Version:	45396
 Release:	2
 Summary:	An all-in-one LaTeX notes package for students
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/notestex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/notestex
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/notestex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/notestex.doc.r%{version}.tar.xz
